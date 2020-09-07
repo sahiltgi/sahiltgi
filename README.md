@@ -1,6 +1,6 @@
 ### Hi there 👋
-### - 🔭 I’m currently working on Admin Panel of Insurance Samadhan using MEAN Stack
-### - 🔭 Worked on Policy Vault and created a cart for thousands of users for storing their Product Interests
+- 🔭 I’m currently working on Admin Panel of Insurance Samadhan using MEAN Stack
+- 🔭 Worked on Policy Vault and created a cart for thousands of users for storing their Product Interests
 
 <!--
 **sahiltgi/sahiltgi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
