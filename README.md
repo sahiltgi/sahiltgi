@@ -1,6 +1,7 @@
 ### Hi there 👋
 - 🔭 I’m currently working on Admin Panel of Insurance Samadhan using MEAN Stack.
-- 🔭 Worked on Policy Vault and created a cart for thousands of users for storing their Product Interests.
+- 🔭 Worked on Policy Vault and created a cart for 10000+ users for storing their Product Interests and Created CRUD feature for admin to add delete or update Product Details.
+- 🔭 Created an admin side Product details table where admin can download csv reports based on filters and also Mark status for Success or reject for product lead.
 
 <!--
 **sahiltgi/sahiltgi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
